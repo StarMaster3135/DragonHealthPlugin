@@ -1,0 +1,7 @@
+# DragonHealthPlugin Configuration
+# 
+# Set the Ender Dragon's health
+# Default Minecraft value: 200 HP
+# Recommended values: 400-1000 HP for increased difficulty
+#
+dragon-health: 600.0
